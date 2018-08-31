@@ -1,5 +1,7 @@
 # pro-cli
 
+🌿Common projects template based on vue-cli 3
+
 ## Project setup
 ```
 npm install
@@ -19,3 +21,6 @@ npm run build
 ```
 npm run lint
 ```
+
+
+
